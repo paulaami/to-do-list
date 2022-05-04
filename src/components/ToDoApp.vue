@@ -125,5 +125,6 @@ export default {
 }
 .finished {
   text-decoration: line-through;
+  text-transform: uppercase;
 }
 </style>
